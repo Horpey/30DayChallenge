@@ -1,3 +1,3 @@
-Name: Atiku Buhari
-Email: atikubuhari@gmail.com
-About me : write something about yourself here.
+Name: Adeniran Opeyemi
+Email: adeniran1059@gmail.com
+About me : Frontend Developer and User Interface Designer.

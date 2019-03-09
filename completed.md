@@ -1,3 +1,2 @@
 ## List of Names Completed
-
-> * eg Buhari Atiku
+Adeniran Opeyemi
